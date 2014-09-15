@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="patching_helper.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="patching_helper"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="18" Y="3"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PatcherForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="mainform"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/qt/alllclintfunits.pas"/>
+        <UnitName Value="AllLCLIntfUnits"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/lib/lazarus/lcl/interfaces/qt/qtwinapi.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1426"/>
+        <CursorPos X="61" Y="1433"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1523"/>
+        <CursorPos X="49" Y="1527"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/fpc/src/rtl/objpas/classes/classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="965"/>
+        <CursorPos X="14" Y="865"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/lib/fpc/src/rtl/objpas/rtlconsts.pp"/>
+        <UnitName Value="RtlConsts"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib/fpc/src/packages/fv/src/memory.pas"/>
+        <UnitName Value="Memory"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../Downloads/flareGet/Compressed/jumper_0.04/ImmPlugin.PAS"/>
+        <UnitName Value="ImmPlugin"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="262"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib/lazarus/components/synedit/synmemo.pas"/>
+        <UnitName Value="SynMemo"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="99"/>
+        <CursorPos X="28" Y="106"/>
+        <UsageCount Value="11"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/lib/lazarus/components/synedit/synedit.pp"/>
+        <UnitName Value="SynEdit"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="989"/>
+        <CursorPos X="29" Y="1002"/>
+        <UsageCount Value="11"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/lib/lazarus/components/synedit/synedittypes.pp"/>
+        <UnitName Value="SynEditTypes"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="67"/>
+        <CursorPos X="3" Y="87"/>
+        <UsageCount Value="11"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="314" Column="46" TopLine="279"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="265" Column="96" TopLine="257"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="212" Column="38" TopLine="26"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="219" Column="3" TopLine="217"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="343" Column="1" TopLine="173"/>
+      </Position5>
+      <Position6>
+        <Filename Value="patching_helper.lpr"/>
+        <Caret Line="11" Column="20" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="167" Column="5" TopLine="157"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

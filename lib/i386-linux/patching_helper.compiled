@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1394619667"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Os3 -Xs -XX -vewnhi -Fi/home/levis/linux_patching_helper_src/lib/i386-linux &quot;-Fu/home/levis/Projects/Linux Patch Helper&quot; -Fu/home/levis/.lazarus/lib/RunTimeTypeInfoControls/lib/i386-linux/qt -Fu/home/levis/.lazarus/lib/IDEIntf/units/i386-linux/qt -Fu/home/levis/.lazarus/lib/SynEdit/units/i386-linux/qt -Fu/home/levis/.lazarus/lib/LazControls/lib/i386-linux/qt -Fu/home/levis/.lazarus/lib/units/i386-linux/qt -Fu/home/levis/.lazarus/lib/LCLBase/units/i386-linux -Fu/home/levis/.lazarus/lib/LazUtils/lib/i386-linux -Fu/home/levis/.lazarus/lib/units/i386-linux -Fu/home/levis/linux_patching_helper_src/ -FU/home/levis/linux_patching_helper_src/lib/i386-linux/ -l -dLCL -dLCLqt patching_helper.lpr"/>
+</CONFIG>
